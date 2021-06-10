@@ -3,7 +3,7 @@ Sends a picture of "nitro proof" after use of the commands, Can be used in fake 
 
 Scrapes profile pictures from servers that the bot is in.
 
-Leaked by Levi.#0420
+Leaked by Levi.#1974
 
 Put ur bot token in config.json
 
